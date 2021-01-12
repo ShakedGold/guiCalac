@@ -3,6 +3,6 @@ A GUI based calculator in java
 
 TODO
  - [x] Make GUI
- - [ ] Set Settings
+ - [x] Set Settings
  - [ ] Make Buttons
- - [ ] Add Oparators
+ - [ ] Add Operators
